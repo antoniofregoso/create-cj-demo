@@ -1,0 +1,12 @@
+{ 
+    "name": "create-bj-app",
+    "version": "1.0.0",
+    "description": "A tool to generate bj apps",
+    "main": "index.js",
+    "bin": {
+    "create-my-library": "./index.js"
+    },
+  "dependencies": {
+    "degit": "^2.8.4"
+  }
+}

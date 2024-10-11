@@ -1,6 +1,6 @@
 { 
-    "name": "create-bj-app",
-    "version": "1.0.0",
+    "name": "@buyerjourney/create-bj-app",
+    "version": "1.0.1",
     "description": "A tool to generate bj apps",
     "main": "index.js",
     "bin": {

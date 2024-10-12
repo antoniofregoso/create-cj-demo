@@ -8,5 +8,14 @@
     },
   "dependencies": {
     "degit": "^2.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniofregoso/create-bj-app.git"
+  },
+  "author": "Antonio Fregoso",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/antoniofregoso/create-bj-app/issues"
   }
 }

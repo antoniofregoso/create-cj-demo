@@ -1,7 +1,7 @@
 { 
-    "name": "@customerjourney/create-bj-app",
-    "version": "1.1.0",
-    "description": "A tool to generate bj apps",
+    "name": "@customerjourney/create-cj-app",
+    "version": "1.1.1",
+    "description": "A tool to generate cj demo",
     "main": "index.js",
     "bin": {
     "create-my-library": "./index.js"

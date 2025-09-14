@@ -22,7 +22,7 @@ if (fs.existsSync(projectPath)) {
   }
   
 // Configure `degit` to clone GitHub repository
-const emitter = degit('antoniofregoso/bj-app', {
+const emitter = degit('antoniofregoso/cj-demo', {
     cache: false,
     force: true,
     verbose: true
@@ -35,15 +35,9 @@ emitter.clone(projectPath).then(() => {
     console.log(`   cd ${projectName}`);
     console.log('2. Install the dependencies:');
     console.log('   npm install');
-    console.log('3. Create the configuration directory:');
-    console.log('   mkdir src/.env');
-    console.log('4. Create the configuration file:');
-    console.log('   echo "{}" | cat > src/.env/conf.json');
-    console.log('5. Create css files:');
-    console.log('   npm run scss');
-    console.log('6. Start the application:');
-    console.log('   npm run watch');
-    console.log('7. Enjoy:');
+    console.log('3. Init the application:');
+    console.log('   npm run init');
+    console.log('4. Enjoy:');
     console.log('   Go to http://localhost:8000/');
   }).catch(err => {
     console.error('Error cloning repository:', err);

@@ -2,7 +2,7 @@
 Create a demo CJjs Web App
 
 ## Usage
-```npx @buyerjourney/create-bj-app app-name```
+```npx @customerjourney/create-bj-app app-name```
 
 A basic cj app will be created with a header, hero banner and footer with the following functionalities:
 1. State management.

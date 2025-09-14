@@ -1,5 +1,5 @@
 { 
-    "name": "@buyerjourney/create-bj-app",
+    "name": "@customerjourney/create-bj-app",
     "version": "1.1.0",
     "description": "A tool to generate bj apps",
     "main": "index.js",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antoniofregoso/create-bj-app.git"
+    "url": "git+https://github.com/antoniofregoso/create-cj-demo.git"
   },
   "author": "Antonio Fregoso",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/antoniofregoso/create-bj-app/issues"
+    "url": "https://github.com/antoniofregoso/create-cj-demo.git/issues"
   }
 }

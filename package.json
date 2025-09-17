@@ -1,6 +1,6 @@
 { 
     "name": "@customerjourney/create-cj-demo",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "description": "A tool to generate cj demo",
     "main": "index.js",
     "bin": {
@@ -17,5 +17,13 @@
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/antoniofregoso/create-cj-demo.git/issues"
-  }
+  },
+  "homepage": "https://customerjourney.ninja/getting-started/",
+  "keywords": [
+    "vanilla-javascripts",
+    "components",
+    "funnels",
+    "touchpoints",
+    "landing pages"
+  ]
 }

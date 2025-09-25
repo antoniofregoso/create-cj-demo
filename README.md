@@ -12,3 +12,5 @@ A basic CJ.js landing page will be created with the following functionalities:
 [Getting Started](https://customerjourney.ninja/getting-started/)
 ## License
 create-cj-demo is [GPL-3.0-or-later](./LICENSE).
+## Sponsor
+[Become a CustumerJourney.js Sponsor](https://customerjourney.ninja/sponsor/).
